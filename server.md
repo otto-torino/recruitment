@@ -5,19 +5,19 @@
 3. Cosa sono e come ci si protegge da attacchi di SQL Injection?
 4. Prova a risolvere il seguente esercizio:
 
-   Tutti quanti amiamo Scarabeo, ci piace comporre parole a partire da un bel mucchio di lettere.
-
-   Scrivi una funzione che dati due input:
-
-   - una frase da scrivere
-   - un'insieme di lettere
-
-  restituisca come output un booleano che indica se dato l'insieme di lettere è possibile scrivere il messaggio.
-
-  Assunzioni:
-
-  - messaggio e insieme contengono solo lettere minuscole dell'alfabeto inglese
-  - l'insieme contiene lettere ordinate in modo casuale (random)
-  - l'insieme di lettere potrebbe essere molto molto grande
-
-  Suggerimento: attento alla performance! Sai "misurarla"?
+>   Tutti quanti amiamo Scarabeo, ci piace comporre parole a partire da un bel mucchio di lettere.
+>
+>   Scrivi una funzione che dati due input:
+>
+>   - una frase da scrivere
+>   - un'insieme di lettere
+>
+>  restituisca come output un booleano che indica se dato l'insieme di lettere è possibile scrivere il messaggio.
+>
+>  Assunzioni:
+>
+>  - messaggio e insieme contengono solo lettere minuscole dell'alfabeto inglese
+>  - l'insieme contiene lettere ordinate in modo casuale (random)
+>  - l'insieme di lettere potrebbe essere molto molto grande
+>
+>  Suggerimento: attento alla performance! Sai "misurarla"?
