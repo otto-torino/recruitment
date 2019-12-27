@@ -1,9 +1,8 @@
-# Bash
+# Linux&Bash
 
-## 1
+1. Spiega in due parole cosa fa questo script bash:
 
-Spiega in due parole cosa fa questo script bash:
-
+  ```
     if [ -d $1 ]
     then
       DIR=$(pwd)
@@ -15,11 +14,8 @@ Spiega in due parole cosa fa questo script bash:
       echo "Path is not a directory"
       exit
     fi
+  ```
 
-## 2
+2. Eseguendo il precedente script viene richiesta la password di accesso per l'account root sulla macchina che risponde al dominio `somedomain.it`. Come si potrebbe mantenere la stessa funzionalità evitando la richiesta della password e di configurarla all'interno dello script?
 
-Eseguendo il precedente script viene richiesta la password di accesso per l'account root sulla macchina che risponde al dominio `somedomain.it`. Come si potrebbe mantenere la stessa funzionalità evitando la richiesta della password e di configurarla all'interno dello script?
-
-## 3
-
-Immagina di avere un servizio chiamato `myservice` in esecuzione. Scrivi uno script in bash per killare il suo processo.
+3. Immagina di avere un servizio chiamato `myservice` in esecuzione. Scrivi uno script in bash per killare il suo processo.
