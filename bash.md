@@ -19,3 +19,11 @@
 2. Eseguendo il precedente script viene richiesta la password di accesso per l'account root sulla macchina che risponde al dominio `somedomain.it`. Come si potrebbe mantenere la stessa funzionalità evitando la richiesta della password e di configurarla all'interno dello script (hai ovviamente accesso di root al server in questione)?
 
 3. Immagina di avere un servizio chiamato `myservice` in esecuzione. Scrivi uno script in bash per killare il suo processo.
+
+4. Dove risiedono solitamente i file di configurazione dei vari applicativi?
+
+5. Cosa fa il comando
+
+    crontab -e
+
+  a cosa potrebbe servire?
