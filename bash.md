@@ -22,10 +22,8 @@
 
 4. Dove risiedono solitamente i file di configurazione dei vari applicativi?
 
-5. Cosa fa il comando
+5. Cosa fa il comando seguente, e a cosa potrebbe servire?
 
   ```
     crontab -e
   ```
-
-  a cosa potrebbe servire?
