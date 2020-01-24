@@ -4,7 +4,7 @@
 2. Cosa sono i metodi `getter` e `setter` e perché sono importanti?
 3. Cosa sono e come ci si protegge da attacchi di SQL Injection?
 4. Quali metodi HTTP conosci per effettuare richieste?
-5. Quali metodi di autenticazione conosci?
+5. Quali metodi di autenticare richieste ad un web service REST?
 6. Come puoi ispezionare una richiesta HTTP e la sua risposta?
 7. Prova a risolvere il seguente esercizio:
 
